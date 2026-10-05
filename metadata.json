@@ -1,0 +1,8 @@
+{
+  "name": "Aplikasi Nilai Rapor & Ijazah SDN Babelan Kota 01",
+  "description": "Sistem Manajemen Nilai Rapor 6 Semester (K4-K6), Ujian Sekolah, Kelulusan, DKN Ijazah, dan Database Excel untuk SD Negeri Babelan Kota 01 TP 2026/2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
